@@ -1,6 +1,6 @@
 # Meu repositório de exercícios
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Daniel Medrado](linkedin.com/in/daniel-medrado-236750225)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Daniel Medrado](https://www.linkedin.com/in/daniel-medrado-236750225/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) 🚀
 
 _"A busca pelo conhecimento é constante e me motiva a alcançar meus objetivos na área de tecnologia, onde pretendo construir uma carreira sólida e próspera."_
 
