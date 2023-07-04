@@ -6,7 +6,15 @@ _"A busca pelo conhecimento é constante e me motiva a alcançar meus objetivos 
 
 ## Fundamentos do Desenvolvimento Web ✅
 
-##### Seção 1: Unix, Shell & Git
+#### Seção 1: Unix, Shell & Git
 
 - [x] 1-1: _Unix & Shell_
 - [x] 1-2: _Git_
+
+#### Seção 2: Introdução à HTML & CSS
+
+- [x] 2-1: _Estruturas de página_
+- [] 2-2: _Primeiros passos em CSS_
+- [] 2-3: _Seletores e posicionamento_
+- [] 2-4: _Semântico_
+- [x] 2-5: _Projeto - Lessons Learned_
