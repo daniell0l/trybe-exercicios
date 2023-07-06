@@ -1,0 +1,107 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos para a navbar */
+.navbar {
+  background-color: blue;
+}
+
+.navbar-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+}
+
+.navbar-list li {
+  margin-top: 7px;
+}
+
+.navbar-list li:last-child {
+  margin-right: 0;
+}
+
+.navbar-list li a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-list li a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para o corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  line-height: 1.5;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+/* Estilos para as imagens */
+.images-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.images-container img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
+/* Estilos para os parágrafos dos personagens */
+p {
+  margin: 20px;
+  text-align: justify;
+}
+
+/* Estilos para os links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  transform: scale(1.1);
+}
+
+/* Estilos para o link externo */
+.external-link {
+  display: inline-block;
+  color: #0066cc;;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}
+
+.external-link:hover {
+  transform: scale(1.1);
+}
+
+.pesquisar p {
+  margin-bottom: 0;
+}
