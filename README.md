@@ -24,3 +24,5 @@ Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fi
 - [x] 2-5: _Projeto - Lessons Learned_
 
 #### Seção 3: Introdução à JavaScript ⏳
+
+- [x] 3-1: _Primeiros passos no JavaScript_
