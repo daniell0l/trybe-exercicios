@@ -26,7 +26,7 @@ Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fi
 #### Seção 3: Introdução à JavaScript ⏳
 
 - [x] 3-1: _Primeiros passos no JavaScript_
-- [] 3-2: _Array e estrutura de repetição_
+- [x] 3-2: _Array e estrutura de repetição_
 - [] 3-3: _Funções_
 - [] 3-4: _Objetos_
 - [] 3-5: _JSON e dia de prática_
