@@ -23,11 +23,14 @@ Aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos
 - [x] 2-4: _Semântico_
 - [x] 2-5: _Projeto - Lessons Learned_
 
-#### Seção 3: Introdução à JavaScript ⏳
+#### Seção 3: Introdução à JavaScript ✅
 
 - [x] 3-1: _Primeiros passos no JavaScript_
 - [x] 3-2: _Array e estrutura de repetição_
-- [] 3-3: _Funções_
-- [] 3-4: _Objetos_
-- [] 3-5: _JSON e dia de prática_
-- [] 3-6: _Projeto - Supermercado Pirilampo_
+- [x] 3-3: _Funções_
+- [x] 3-4: _Objetos_
+- [x] 3-5: _JSON e dia de prática_
+- [x] 3-6: _Projeto - Supermercado Pirilampo_
+
+#### Seção 4: JavaScript: DOM, Eventos e Web Storage⏳
+- [x] 4-1: _DOM e seletores_
